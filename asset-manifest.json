@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workspace/static/css/main.87cab4ca.css",
+    "main.js": "/workspace/static/js/main.12f94930.js",
+    "index.html": "/workspace/index.html",
+    "main.87cab4ca.css.map": "/workspace/static/css/main.87cab4ca.css.map",
+    "main.12f94930.js.map": "/workspace/static/js/main.12f94930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87cab4ca.css",
+    "static/js/main.12f94930.js"
+  ]
+}
